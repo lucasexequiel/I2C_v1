@@ -1,0 +1,8 @@
+{
+    "editor.fontFamily": "cascadia code",
+    "editor.fontSize": 20,
+    "editor.cursorBlinking": "expand",
+    "files.associations": {
+        "i2c.h": "c"
+    }
+}
